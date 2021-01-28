@@ -5,7 +5,7 @@
 // 
 
 #include <iostream>
-#include <string>
+#include <cstring>
 using namespace std;
 // this struct defines the properties of the node
 struct Node {
